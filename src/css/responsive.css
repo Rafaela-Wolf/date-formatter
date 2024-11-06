@@ -1,0 +1,27 @@
+@media (max-width: 550px) {
+    .title {
+        font-size: 1.8rem;
+    }
+
+    select {
+        font-size: 0.8rem;
+    }
+
+    #current-date {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 325px) {
+    .title {
+        font-size: 1.4rem;
+    }
+
+    select {
+        font-size: 0.6rem;
+    }
+
+    #current-date {
+        font-size: 1.2rem;
+    }
+}
